@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [express-ecommerce](https://github.com/federicous/express-ecommerce)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m **Full Stack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
